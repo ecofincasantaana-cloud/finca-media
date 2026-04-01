@@ -1,6 +1,5 @@
 backend:
-  name: github
-  repo: ecofincasantaana-cloud/finca-media
+  name: git-gateway
   branch: main
 
 media_folder: "images"
