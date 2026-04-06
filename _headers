@@ -1,0 +1,2 @@
+/*
+  Content-Security-Policy: default-src 'self'; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://www.googletagmanager.com https://googleads.g.doubleclick.net https://www.google.com https://identity.netlify.com; img-src 'self' data: https://www.google.com https://googleads.g.doubleclick.net https://cdn.jsdelivr.net https://images.unsplash.com https://static.whatsapp.net; connect-src 'self' https://googleads.g.doubleclick.net https://www.google.com https://www.google-analytics.com; frame-src https://www.google.com https://googleads.g.doubleclick.net;
